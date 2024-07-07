@@ -1,4 +1,4 @@
-![Header](./header-image.png)
+![Header](./headerfoto.png)
 
 # 🙂 Hola, soy Iván
 
